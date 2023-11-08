@@ -20,13 +20,10 @@ Currently, I am dedicated to developing my very own application that allows trac
 The goal is to let users record their hike waypoints easily and quickly, store memories and personal records, and plan future trips without revisiting the same hiking spots. :smile:
 
 The project provides an opportunity to enhance my current knowledge and gain fresh insights in various fields, including:
-|-----:|-----------|
-|     1| Javascript|
-|     2| Python    |
-|     3| SQL       |
-☕ Java
-🍃 Spring Boot
-⚙️ MySQL
-🔗 Hibernate, JDBC
-💻 Vaadin, JS, HTML, CSS
-:walking: Mountain hiking routes :smile:
+
+-☕ Java
+-🍃 Spring Boot
+-⚙️ MySQL
+-🔗 Hibernate, JDBC
+-💻 Vaadin, JS, HTML, CSS
+-:walking: Mountain hiking routes :smile:
